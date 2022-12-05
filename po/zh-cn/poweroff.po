@@ -16,16 +16,16 @@ msgid "PowerOff"
 msgstr "关机"
 
 msgid "Shut down your router"
-msgstr "关机,走佬,瞓觉"
+msgstr "关机,走佬"
 
 msgid "Perform PowerOff"
-msgstr "关机,走你~"
+msgstr "开始关机"
 
 msgid "Warning: There are unsaved changes that will get lost on shutting down!"
-msgstr "警告：已改动,但冇保存的参数,喺关机的时候都会丢失！
+msgstr "警告：已经修改,但未保存嘎设置,喺关机嘎时候都会丢失！
 
 msgid "Waiting for device..."
-msgstr "饮啖茶先喇,仲要等一下..."
+msgstr "等.等等.等等..."
 
 msgid "Router is shutting down..."
-msgstr "正在关机,拜拜你条尾..."
+msgstr "係咁先,拜拜你条尾..."
