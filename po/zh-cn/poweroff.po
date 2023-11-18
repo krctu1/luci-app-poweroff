@@ -16,7 +16,7 @@ msgid "PowerOff"
 msgstr "关机"
 
 msgid "Shut down your router"
-msgstr "关机啦"
+msgstr "关机啦,再唔关机就boom啦"
 
 msgid "Perform PowerOff"
 msgstr "开始关机"
